@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage
+.coverage
+.cache
+.pytest_cache/
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Local env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OneDrive temp files
+~$*
+
+# Logs
+*.log
+
+#Folders
+data/
