@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+geomloss
+backtesting
+scikit-learn
+matplotlib
+seaborn
